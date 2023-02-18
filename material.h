@@ -50,5 +50,5 @@ class metal : public material {
     public:
         color albedo;
         double fuzz;
-}
+};
 #endif
